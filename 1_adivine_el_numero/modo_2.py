@@ -1,5 +1,3 @@
-import random
-
 print("Introduzca el número a adivinar")
 while True:
     numero = input("Introduzca un número entre 0 y 99: ")
